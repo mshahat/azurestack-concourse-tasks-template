@@ -1,2 +1,2 @@
 ---
-azcli-concourse-uri: <your github repo>
+azcli-concourse-uri: https://github.com/mshahat/azurestack-concourse-tasks-template
