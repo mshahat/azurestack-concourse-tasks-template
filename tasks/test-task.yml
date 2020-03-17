@@ -1,0 +1,16 @@
+---
+platform: linux
+
+#inputs:
+#params:
+
+run:
+  path: bash
+  args:
+  - "-c"
+  - |
+    set -eux
+    echo "Azure Stack Automation for Concourse"
+    az 
+    pwd
+    ls -lisa
